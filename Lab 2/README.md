@@ -3,11 +3,12 @@ Lab 2
 
 1. Open VNC Connect on Raspberry Pi and select VNC Server(After enabling it in Raspberry Pi's Configurations)
 
-https://github.com/tehreemt/EE629-InternetOfThings/blob/master/Lab%202/ConnectedVNC.PNG
-
 ![alt text](ConnectedVNC.PNG)
 
 2. This will show the ip address of your Raspberry Pi:
 
 ![](ifconfigPi.PNG)
 
+3. Run a simple python program on Raspberry Pi:
+
+![](HelloWorldRaspberryPython.PNG)
