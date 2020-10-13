@@ -9,4 +9,4 @@ We use curl command for installing Docker container.
 
 ![](logout.PNG)
 
-You should press Ctrl+D to logout and then again login by SSH for this to take effect.
+You should press Ctrl+D to logout and then again log-in by SSH for this to take effect.
