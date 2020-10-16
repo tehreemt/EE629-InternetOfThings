@@ -10,3 +10,10 @@ We use curl command for installing Docker container.
 ![](logout.PNG)
 
 You should press Ctrl+D to logout and then again log-in by SSH for this to take effect.
+
+3. Run Docker images designed to work on ARM under the prefix armhf:
+
+![](runDockerimages.PNG)
+
+4. Build and run new Docker Image from Docker file:
+![](
