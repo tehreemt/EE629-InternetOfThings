@@ -74,3 +74,41 @@ Now the subscriber does not receive messages:
 Moving on to the next part of the lab:
 Lab 5B: Eclipse Mosquitto and Eclipse Paho
 
+1. Install mosquitto and run subscriber:
+
+$ sudo apt install mosquitto mosquitto-clients
+$ mosquitto_sub -h localhost -v -t "\$SYS/#"
+
+![](mosquitto.PNG)
+
+Stop subscriber by pressing Ctrl-C
+
+2. Install Paho and publish "Hello" on new terminal:
+
+$ mosquitto_pub -h localhost -t test/topic -m "Hello"
+$ service mosquitto status
+$ netstat -tln
+$ sudo pip3 install -U paho-mqtt
+$ git clone https://github.com/eclipse/paho.mqtt.python.git
+$ cd ~/iot/lesson5
+$ python3 client.py
+
+![](pubmosquitto.PNG)
+
+![](subpaho.PNG)
+
+3. Exit and open a new terminal to run subscriber first:
+$ python3 sub.py
+
+Now open a new terminal and run publisher:
+$ python3 pub.py
+
+![](pubsub.PNG)
+
+4. Exit by pressing Ctrl-C and run multiple pub sub programs on different terminals:
+
+![](multiplepubsub.PNG)
+
+5. Again exit by pressing Ctrl-C and run the next programs to publish and subscribe to raspberry pi's temperature and CPU usage data:
+
+![raspipubsub.PNG)
