@@ -111,4 +111,4 @@ $ python3 pub.py
 
 5. Again exit by pressing Ctrl-C and run the next programs to publish and subscribe to raspberry pi's temperature and CPU usage data:
 
-![raspipubsub.PNG)
+![](raspipubsub.PNG)
