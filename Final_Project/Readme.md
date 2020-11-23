@@ -11,7 +11,7 @@ Enter all your information like Name, Date of birth, height, weight and click on
 
 Step 2: Set up your account and create the app:
 
-![](setUpAccount.PNG)
+![](fitbitDashboard.PNG)
 
 Step 3: Install the Fitbit API Python Library:
 
