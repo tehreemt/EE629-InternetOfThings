@@ -13,6 +13,20 @@ Step 2: Set up your account by verifying your email. Go to your Dashboard:
 
 ![](fitbitDashboard.PNG)
 
+Go to https://dev.fitbit.com/
+Go to “Manage” and click on “Register An App":
+
+![](registerApp.PNG)
+
+Fill in all the details on the Registration page:
+
+![](registrationInfo.PNG)
+
+The next page will have all your details like OAuth Client ID and Client Secret.
+I have hidden those details for security reasons.
+
+![](authDetails.PNG)
+
 Step 3: Install the Fitbit API Python Library:
 
 ![](installLibrary.PNG)
