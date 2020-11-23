@@ -3,7 +3,7 @@ Project Title: "Using Fitbit's API to Acquire, Visualize, and Analyze Data in Py
 Fitbit provides a Web API to access data from Fitbit activity trackers, Aria & Aria 2 scales, or manually entered logs.
 Fitbit API (https://dev.fitbit.com/build/reference/web-api/basics/) can be used to get your own data.
 
-Step 1: Create your Fitbit account:
+Step 1: Create your Fitbit account![](https://accounts.fitbit.com/signup?targetUrl=https%3A%2F%2Fwww.fitbit.com%2Flogin%2Ftransferpage%3Fredirect%3Dhttps%253A%252F%252Fwww.fitbit.com&lcl=en_US):
 
 ![](createFitbitAccount.PNG)
 
