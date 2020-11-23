@@ -9,7 +9,7 @@ Step 1: Create your [Fitbit account](https://accounts.fitbit.com/signup?targetUr
 
 Enter all your information like Name, Date of birth, height, weight and click on "Join Fitbit".
 
-Step 2: Set up your account and create the app:
+Step 2: Set up your account by verifying your email. Go to your Dashboard:
 
 ![](fitbitDashboard.PNG)
 
