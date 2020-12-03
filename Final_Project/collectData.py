@@ -27,7 +27,7 @@ hundred = str((datetime.datetime.now() - datetime.timedelta(days=99)).strftime("
 today = str((datetime.datetime.now() - datetime.timedelta(days=0)).strftime("%Y-%m-%d"))
 
 #=======PART1: Collecting Distance data==========
-distance = auth2_client.time_series('activities/distance', base_date=fifty, end_date=today)
+distance = auth2_client.time_series('activities/distance', base_date=hundred, end_date=today)
 
 #date_list will store all the dates
 date_list = ["Date"]    
@@ -35,16 +35,16 @@ date_list = ["Date"]
 distance_list = ["Distance"]
 
 for d in distance['activities-distance']:
-    time_list.append(d['dateTime'])
+    date_list.append(d['dateTime'])
     distance_list.append(d['value'])
     
 #========PART2: Collecting Calorie data=========
-calories = auth2_client.time_series('activities/calories', base_date=fifty, end_date=today)
+calories = auth2_client.time_series('activities/calories', base_date=hundred, end_date=today)
 
 #cal_list stores the calorie count
 cal_list=["Calorie Count"]
 
-for x in fit_statsCal['activities-calories']:
+for x in calories['activities-calories']:
     cal_list.append(d['value'])
 
 #Getting all the lists together to zip them
@@ -57,5 +57,3 @@ with open('data_fitbit.csv', "w") as f:
         writer.writerow(row)
    
    
-    
-
