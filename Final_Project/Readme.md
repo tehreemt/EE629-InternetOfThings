@@ -29,7 +29,14 @@ I have hidden those details for security reasons.
 
 Step 3: Install the Fitbit API Python Library:
 
+Navigate to https://github.com/orcasgit/python-fitbit and install fitbit python library by downloading the zip file and running the following command on your terminal.
+cd to your path which contains the downloaded zip file and type:
+
+~sudo pip install -r requirements/base.txt
+
 ![](installLibrary.PNG)
+
+Once this step is done, you can start writing your code using fitbit api library.
 
 Step 4: Role of OAuth in Authorization:
 
