@@ -62,7 +62,11 @@ Once successfully authenticated (ONLY after successful authentication), you will
 Step 5: Run collect_data.py program in your terminal window by typing python3 collect_data.py:
 The .csv files would be generated.
 
-![](three_month_data_fitbit.csv)
+Step 6: Run analyze.py in your terminal window by typing python3 analyze.py:
+
+i. The first pie chart with Activity Distribution will be generated:
+
+![](1.Activity_Distribution.PNG)
 
 
 
