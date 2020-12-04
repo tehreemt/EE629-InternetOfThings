@@ -70,15 +70,15 @@ i. The first pie chart with Activity Distribution will be generated:
 
 ii. The following graphs show distance distribution for three months, namely, June, July and August 2020:
 
-  a. Distribution for the month of June:
+  a. Distance distribution for the month of June:
   
   ![](2a.Distance_June_All_Days.PNG)
   
-  b. Distribution for the month of July:
+  b. Distance distribution for the month of July:
   
   ![](2b.Distance_July_All_Days.PNG)
   
-  c. Distribution for the month of August:
+  c. Distance distribution for the month of August:
   
   ![](2c.Distance_Aug_All_Days.PNG)
 
