@@ -59,9 +59,10 @@ Once successfully authenticated (ONLY after successful authentication), you will
 
 
 
-Step 5: Run the Fitbit_Analysis.py program in your terminal window by typing python3 Fitbit_Analysis.py:
+Step 5: Run collect_data.py program in your terminal window by typing python3 collect_data.py:
+The .csv files would be generated.
 
-![](output.PNG)
+![](three_month_data_fitbit.csv)
 
 
 
