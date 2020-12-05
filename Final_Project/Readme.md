@@ -91,11 +91,11 @@ The following graphs show comparison between active minutes and sedentary minute
   
   b. Comparison scatter plot for Sedentary Minutes and Active Minutes for the month of July:
   
-  ![](3a.SedvsAct_July.PNG)
+  ![](3b.SedvsAct_July.PNG)
   
   c. Comparison scatter plot for Sedentary Minutes and Active Minutes for the month of August:
   
-  ![](3a.SedvsAct_Aug.PNG)
+  ![](3c.SedvsAct_Aug.PNG)
   
   The scatter plot shows I have been less active for all the three months.
   
