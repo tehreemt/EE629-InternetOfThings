@@ -124,7 +124,7 @@ The following graphs show comparison between active minutes and sedentary minute
   
   It is important to find correlation between calories burnt per day vs workout. It can be seen that the more I worked out, the more calories I burnt.
   
- vi. Analysis based on weekdays:
+ vi. Analysis based on weekdays for all the three months:
  
   ![](6.Average_Step_Sleep_Water.PNG)
   
