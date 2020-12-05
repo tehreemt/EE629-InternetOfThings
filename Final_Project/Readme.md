@@ -124,4 +124,13 @@ The following graphs show comparison between active minutes and sedentary minute
   
   It is important to find correlation between calories burnt per day vs workout. It can be seen that the more I worked out, the more calories I burnt.
   
+ vi. Analysis based on weekdays:
+ 
+  ![](6.Average_Step_Sleep_Water.PNG)
   
+  a. My goal is to walk atleast 6000 steps daily. 10,000 is the recommended number, but sometimes due to my busy schedule, I try for 6000. The first bar chart shows average number of daily steps based on weekdays. Mondays, Sundays and Saturdays are the three days where my average steps are above my goal of 6000 steps. Thursday has the least number of average steps as I have my office hours on Thursdays so I usually am indoors.
+  
+  b. Next, I analyzed my sleep hours based on weekdays. 7-9 hrs of sleep is recommended for a healthy body and healthy mind. On an average, Tuesdays, Thursdays and Saturdays are the days I get enough sleep. It can be seen from the second chart that I get less sleep usually on Thursdays, since Thursday is my busiest day.
+  
+  c. Moving on to water intake analysis, which I think is often not taken into consideration, but is the most important element to stay healthy. For women, 74oz of water intake is recommended to stay healthy. Definitely, I'll have to drink more water as my average water intake seems to be low on all days except Fridays.
+ 
