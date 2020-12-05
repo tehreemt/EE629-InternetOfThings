@@ -116,5 +116,12 @@ The following graphs show comparison between active minutes and sedentary minute
   
   ![](4c.SleepStart_August.PNG)
   
- v. 
+ v. Whether you work out in a gym or you run in a park, the more you workout, the more calories are burnt. Let us see the correlation of distance and calorie burnt by analyzing data for all three months. 
+ 
+  Correlation of Distance with Calories burnt per day:
+  
+  ![](5.Correlation_Cal_Dist.PNG)
+  
+  It is important to find correlation between calories burnt per day vs workout. It can be seen that the more I worked out, the more calories I burnt.
+  
   
