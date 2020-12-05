@@ -82,5 +82,21 @@ ii. The following graphs show distance distribution for three months, namely, Ju
   
   ![](2c.Distance_Aug_All_Days.PNG)
 
+iii. Next, I compared my sedentary minutes with active ones. Fitbit categorizes Active minutes as Very Active, Lightly Active and Fairly Active. Fitbit categorizes time as 'Sedentary minutes' when the user is sitting.
+The following graphs show comparison between active minutes and sedentary minutes for June, July and August.
 
-
+  a. Comparison scatter plot for Sedentary Minutes and Active Minutes for the month of June:
+  
+  ![](3a.SedvsAct_June.PNG)
+  
+  b. Comparison scatter plot for Sedentary Minutes and Active Minutes for the month of July:
+  
+  ![](3a.SedvsAct_July.PNG)
+  
+  c. Comparison scatter plot for Sedentary Minutes and Active Minutes for the month of August:
+  
+  ![](3a.SedvsAct_Aug.PNG)
+  
+  The scatter plot shows I have been less active for all the three months.
+  
+ iv. 
