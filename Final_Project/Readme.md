@@ -1,7 +1,9 @@
-Project Title: "Using Fitbit's API to Acquire, Visualize, and Analyze Data in Python"
+Project Title: **"Using Fitbit's API to Acquire, Visualize, and Analyze Data in Python"**
 
 Fitbit provides a Web API to access data from Fitbit activity trackers, Aria & Aria 2 scales, or manually entered logs.
 Fitbit API (https://dev.fitbit.com/build/reference/web-api/basics/) can be used to get your own data.
+
+I have a **Samsung Galaxy smartwatch** which has Step Tracker sensor. I also use my **Samsung Galaxy S8+ phone**, which is capable of tracking a my steps through the S Health app.
 
 Step 1: Create your [Fitbit account](https://accounts.fitbit.com/signup?targetUrl=https%3A%2F%2Fwww.fitbit.com%2Flogin%2Ftransferpage%3Fredirect%3Dhttps%253A%252F%252Fwww.fitbit.com&lcl=en_US):
 
@@ -99,4 +101,20 @@ The following graphs show comparison between active minutes and sedentary minute
   
   The scatter plot shows I have been less active for all the three months; being most sedentary in the month of August.
   
- iv. 
++needs improvementiv. A Harvard study conducted on 61 undergraduate student concluded that students with irregular patterns of sleep and wakefulness had a lower grade point average than the rest. So, its a very essential metric to take into account.
+ I compared my sleep start times for all the three months and it is evident that my sleeping pattern needs improvement.
+ 
+  a. Sleep Start Time Analysis for June 2020:
+  
+  ![](4a.SleepStart_June.PNG)
+  
+  b. Sleep Start Time Analysis for July 2020:
+  
+  ![](4b.SleepStart_July.PNG)
+  
+  c. Sleep Start Time Analysis for August 2020:
+  
+  ![](4c.SleepStart_August.PNG)
+  
+ v. 
+  
