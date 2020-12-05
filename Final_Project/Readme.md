@@ -97,6 +97,6 @@ The following graphs show comparison between active minutes and sedentary minute
   
   ![](3c.SedvsAct_Aug.PNG)
   
-  The scatter plot shows I have been less active for all the three months.
+  The scatter plot shows I have been less active for all the three months; being most sedentary in the month of August.
   
  iv. 
