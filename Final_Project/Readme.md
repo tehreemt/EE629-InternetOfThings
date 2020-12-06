@@ -101,20 +101,12 @@ The following graphs show comparison between active minutes and sedentary minute
   
   The scatter plot shows I have been less active for all the three months; being most sedentary in the month of August.
   
-+needs improvementiv. A Harvard study conducted on 61 undergraduate student concluded that students with irregular patterns of sleep and wakefulness had a lower grade point average than the rest. So, its a very essential metric to take into account.
- I compared my sleep start times for all the three months and it is evident that my sleeping pattern needs improvement.
+iv. A Harvard study conducted on 61 undergraduate student concluded that students with irregular patterns of sleep and wakefulness had a lower grade point average than the rest. So, its a very essential metric to take into account.
+ I compared my sleep start times for all the three months and it is evident that my sleeping pattern can be improved.
  
-  a. Sleep Start Time Analysis for June 2020:
+  Sleep Start Time Analysis for June, July & August 2020:
   
-  ![](4a.SleepStart_June.PNG)
-  
-  b. Sleep Start Time Analysis for July 2020:
-  
-  ![](4b.SleepStart_July.PNG)
-  
-  c. Sleep Start Time Analysis for August 2020:
-  
-  ![](4c.SleepStart_August.PNG)
+  ![](4.Sleep_StartTime_Frequency.PNG)
   
  v. Whether you work out in a gym or you run in a park, the more you workout, the more calories are burnt. Let us see the correlation of distance and calorie burnt by analyzing data for all three months. 
  
