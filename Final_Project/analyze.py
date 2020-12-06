@@ -151,6 +151,7 @@ plt.legend(loc='best', fontsize='7')
 plt.show()
 
 #========PART4: Sleep time analysis========
+"""
 sleep_start=df['Sleep Start(Time)']
 
 sleep_start_june= sleep_start.iloc[0:30]
@@ -188,6 +189,21 @@ plt.xlabel('Sleep Start Time in HH:MM')
 plt.ylabel('Days in August')
 plt.title('Sleep Start Time Analysis for August')
 plt.show()
+"""
+
+df['slp_str'] = df['Sleep Start(Time)'].map(lambda x: (datetime.strptime(str(x),"%H:%M")).hour+(datetime.strptime(str(x),"%H:%M")).minute/60.0)
+
+ind = df[df['slp_str'] > 12.0].index.tolist()
+df.loc[ind,'slp_str'] = df['slp_str'].iloc[ind] - 24.0
+
+plt.hist(df['slp_str'], color = 'lavender', alpha = 0.8, edgecolor='blue', label='Sleep Start Time Frequency')
+plt.xlabel('Sleep Start Time')
+plt.xticks([-3,-2,-1,0,1,2,3],['9pm','10pm','11pm','12am','1am','2am','3am'])
+plt.ylabel('Frequency (Number of days)')
+plt.title('Sleep Start Time frequency for June, July & August')
+plt.legend(loc='best')
+plt.show()
+
 
 #==========PART5: Correlation between Distance and Calories Burnt
 
@@ -245,4 +261,6 @@ plt.xticks(list(range(7)),['Mon','Tue','Wed','Thur','Fri','Sat','Sun'])
 plt.legend()
 plt.show()
 
-
+#=====Ends====
+#=====Thank You===
+ 
