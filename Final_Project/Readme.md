@@ -120,7 +120,7 @@ iv. A Harvard study conducted on 61 undergraduate student concluded that student
  
   ![](6.Average_Step_Sleep_Water.PNG)
   
-  a. My goal is to walk atleast 6000 steps daily. 10,000 is the recommended number, but sometimes due to my busy schedule, I try for 6000. The first bar chart shows average number of daily steps based on weekdays. Mondays, Sundays and Saturdays are the three days where my average steps are above my goal of 6000 steps. Thursday has the least number of average steps as I have my office hours on Thursdays so I usually am indoors.
+  a. My goal is to walk atleast 6000 steps daily. 10,000 is the recommended number, but since I have been busy lately, my daily step target is 6000. The first bar chart shows average number of daily steps based on weekdays. Mondays, Sundays and Saturdays are the three days where my average steps are above my goal of 6000 steps. Thursday has the least number of average steps as I have my office hours on Thursdays so I usually am indoors.
   
   b. Next, I analyzed my sleep hours based on weekdays. 7-9 hrs of sleep is recommended for a healthy body and healthy mind. On an average, Tuesdays, Thursdays and Saturdays are the days I get enough sleep. It can be seen from the second chart that I get less sleep usually on Thursdays, since Thursday is my busiest day.
   
