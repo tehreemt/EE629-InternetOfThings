@@ -34,7 +34,7 @@ Minute_Data=[very_act_sum, light_act_sum, fair_act_sum]
 explode = (0.1, 0, 0)
 
 plt.pie(Minute_Data,labels=Minute_Names, autopct='%1.1f%%', shadow=True, explode=explode)
-plt.title("Tehreem's Activity Distribution for June, July & August 2020")
+plt.title("Activity Distribution for June, July & August 2020")
 plt.legend(loc='best')
 plt.show()
 
